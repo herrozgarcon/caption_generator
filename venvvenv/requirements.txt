@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+torchvision
+torchaudio
+pillow
+pyperclip
+pyshorteners
